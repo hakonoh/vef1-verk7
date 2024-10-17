@@ -1,5 +1,7 @@
 # Vefforritun 1, 2024: Verkefni 7, JS #1
 
+## Lausn á verkefni 7 í vefforritun 1. 
+
 - [Vefforritun 1, 2024, fyrirlestur 8.4: Verkefni 7](https://www.youtube.com/watch?v=vpFY_TrU_LY)
 - [Vefforritun 1, 2024, fyrirlestur 9.1: Meira um verkefni 7](https://www.youtube.com/watch?v=NxU6MWE5quk)
 - [Vefforritun 1, 2024, fyrirlestur 9.2: Verkefni 7 og Netlify](https://www.youtube.com/watch?v=hKB-L_BJ6aE)
